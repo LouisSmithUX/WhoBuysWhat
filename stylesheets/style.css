@@ -1,0 +1,82 @@
+html {
+  height: 100%;
+}
+
+html, body, ul, h1, p{
+  padding:0px;
+  margin:0px;
+}
+
+body {
+  font-family: verdana, sans-serif;
+  height: 100%;
+  vertical-align: middle;
+}
+
+h1 
+{
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+.wrapper {
+  width: 80%;
+  height: 100%;
+  padding: 0px;
+  margin: auto;
+  margin-top: 0px;
+}
+
+.titlebox {
+  height: 20%;
+}
+
+.source {
+  font-variant: small-caps;
+  font-family: Eurostyle, serif;
+  font-size: 10px;
+  text-align: right;
+}
+.container {
+  height: 70%;
+  width: 100%;
+}
+
+svg, img {
+  max-width:100%;
+  max-height:100%;
+}
+
+.buttons {
+  height: 10%;
+  width: 100%;
+  display: table;
+  position: relative;
+}
+
+.buttons div {
+  display: table-cell;
+  width: 20%;
+  vertical-align: middle;
+  text-align: center;
+  position: static;
+}
+
+.chartBox .tick line{
+  stroke : #888;
+  opacity: 0.3;
+}
+
+.chartBox .tick text{
+  fill: #555;
+  font-size: 6px;
+}
+
+svg g.axis path{
+  fill: none;
+}
+
+div.enabled {
+  font-weight: bold
+}

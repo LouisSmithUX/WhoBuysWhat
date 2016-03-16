@@ -1,0 +1,202 @@
+[
+  {
+    "Country": "ca",
+    "Values": {
+      "Recreation": 2238,
+      "House": 2008,
+      "Clothes": 937,
+      "Drinking": 904,
+      "Electronics": 359
+    }
+  },
+  {
+    "Country": "se",
+    "Values": {
+      "Recreation": 2642,
+      "House": 1213,
+      "Clothes": 1094,
+      "Drinking": 780,
+      "Electronics": 368
+    }
+  },
+  {
+    "Country": "gb",
+    "Values": {
+      "Recreation": 3621,
+      "House": 1648,
+      "Clothes": 1512,
+      "Drinking": 1031,
+      "Electronics": 764
+    }
+  },
+  {
+    "Country": "ch",
+    "Values": {
+      "Recreation": 2582,
+      "House": 1423,
+      "Clothes": 1159,
+      "Drinking": 1120,
+      "Electronics": 395
+    }
+  },
+  {
+    "Country": "no",
+    "Values": {
+      "Recreation": 4242,
+      "House": 2027,
+      "Clothes": 1651,
+      "Drinking": 1379,
+      "Electronics": 794
+    }
+  },
+  {
+    "Country": "fi",
+    "Values": {
+      "Recreation": 2555,
+      "House": 1277,
+      "Clothes": 996,
+      "Drinking": 1090,
+      "Electronics": 413
+    }
+  },
+  {
+    "Country": "dk",
+    "Values": {
+      "Recreation": 2940,
+      "House": 1680,
+      "Clothes": 1187,
+      "Drinking": 968,
+      "Electronics": 548
+    }
+  },
+  {
+    "Country": "de",
+    "Values": {
+      "Recreation": 2071,
+      "House": 1602,
+      "Clothes": 1042,
+      "Drinking": 778,
+      "Electronics": 365
+    }
+  },
+  {
+    "Country": "pk",
+    "Values": {
+      "Recreation": 1,
+      "House": 21,
+      "Clothes": 35,
+      "Drinking": 15,
+      "Electronics": 1
+    }
+  },
+  {
+    "Country": "cn",
+    "Values": {
+      "Recreation": 26,
+      "House": 43,
+      "Clothes": 72,
+      "Drinking": 24,
+      "Electronics": 9
+    }
+  },
+  {
+    "Country": "us",
+    "Values": {
+      "Recreation": 2883,
+      "House": 1495,
+      "Clothes": 1406,
+      "Drinking": 673,
+      "Electronics": 530
+    }
+  },
+  {
+    "Country": "br",
+    "Values": {
+      "Recreation": 82,
+      "House": 82,
+      "Clothes": 130,
+      "Drinking": 136,
+      "Electronics": 27
+    }
+  },
+  {
+    "Country": "pe",
+    "Values": {
+      "Recreation": 53,
+      "House": 82,
+      "Clothes": 128,
+      "Drinking": 46,
+      "Electronics": 7
+    }
+  },
+  {
+    "Country": "co",
+    "Values": {
+      "Recreation": 120,
+      "House": 120,
+      "Clothes": 91,
+      "Drinking": 113,
+      "Electronics": 18
+    }
+  },
+  {
+    "Country": "ng",
+    "Values": {
+      "Recreation": 16,
+      "House": 28,
+      "Clothes": 486,
+      "Drinking": 17,
+      "Electronics": 3
+    }
+  },
+  {
+    "Country": "eg",
+    "Values": {
+      "Recreation": 29,
+      "House": 56,
+      "Clothes": 83,
+      "Drinking": 29,
+      "Electronics": 7
+    }
+  },
+  {
+    "Country": "in",
+    "Values": {
+      "Recreation": 10,
+      "House": 18,
+      "Clothes": 25,
+      "Drinking": 12,
+      "Electronics": 3
+    }
+  },
+  {
+    "Country": "th",
+    "Values": {
+      "Recreation": 140,
+      "House": 116,
+      "Clothes": 143,
+      "Drinking": 114,
+      "Electronics": 46
+    }
+  },
+  {
+    "Country": "id",
+    "Values": {
+      "Recreation": 23,
+      "House": 70,
+      "Clothes": 48,
+      "Drinking": 68,
+      "Electronics": 6
+    }
+  },
+  {
+    "Country": "au",
+    "Values": {
+      "Recreation": 2734,
+      "House": 1309,
+      "Clothes": 773,
+      "Drinking": 936,
+      "Electronics": 568
+    }
+  }
+]
